@@ -1,6 +1,8 @@
 //Object Oriented Programming # 04
 //Feb 5th Video 2.33 - 2.45
 // relation -> Box3 and BoxDemo3
+package Object_Oriented_Basic;
+
 public class Box3 {
 
 	// use class keyword to declare a class

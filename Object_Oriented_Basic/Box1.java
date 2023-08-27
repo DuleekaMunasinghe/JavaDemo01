@@ -2,6 +2,8 @@
 //Jan 30th video 04.15 - 04.47 
 // Feb 05th Video 00.57 - 
 //Feb 5th Video 2.24 - 
+package Object_Oriented_Basic;
+
 public class Box1 {
 
 	// use class keyword to declare a class
