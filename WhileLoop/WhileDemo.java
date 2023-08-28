@@ -1,3 +1,4 @@
+package WhileLoop;
 
 public class WhileDemo {
 

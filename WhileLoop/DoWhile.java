@@ -1,3 +1,4 @@
+package WhileLoop;
 import java.io.IOException;
 
 public class DoWhile {
