@@ -1,5 +1,7 @@
-
 //2. using private access specifiers
+package AccessModifier;
+
+
 class priaccessspecifier 
 { 
 	private void display() 

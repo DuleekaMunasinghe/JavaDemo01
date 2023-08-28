@@ -1,4 +1,4 @@
-package pack2;
+package AccessModifier;
 
 import pack1.*;
 

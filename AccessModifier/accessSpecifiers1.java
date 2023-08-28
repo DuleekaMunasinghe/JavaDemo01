@@ -1,5 +1,7 @@
-
 //1. Class is having Default access modifier 
+package AccessModifier;
+
+
 class defAccessSpecifier
 { 
 	void display() 
