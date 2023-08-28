@@ -26,3 +26,5 @@ public class InheritanceDemo {
 	}
 
 }
+//obj1 - Parent
+//obj2 - child 
