@@ -1,3 +1,4 @@
+package TypesOfVariables;
 
 public class FlowControl {
 
@@ -16,22 +17,22 @@ public class FlowControl {
 	*/
 		// Larges among 3 numbers 40 75 15
 		
-		int a = 1, b = 75, c = 55;
+		int a = 40, b = 75, c = 15;
 		// compare a with b and a with c
 		// if both condition are true a is the lager
 		if (a>=b && a>=c)
 		{
-		System.out.println("Largerst of 3 number is :" +a );	
+		System.out.println("Largerst of 3 numbers is :" +a );	
 		}
 		
 		if (b>=a && b>=c)
 		{
-		System.out.println("Largerst of 3 number is :" +b );	
+		System.out.println("Largerst of 3 numbers is :" +b );	
 		}
 		
 		if (c>=a && c>=b)
 		{
-		System.out.println("Largerst of 3 number is :" +c );	
+		System.out.println("Largerst of 3 numbers is :" +c );	
 		}
 		
 		

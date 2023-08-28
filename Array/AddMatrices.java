@@ -1,4 +1,6 @@
 // Jan30th video 04.03 - 04.10
+package Array;
+
 public class AddMatrices {
 
 	public static void main(String[] args) {

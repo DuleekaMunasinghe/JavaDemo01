@@ -1,3 +1,4 @@
+package If_NestedIf_Switch;
 
 public class IfDemo {
 
@@ -27,7 +28,7 @@ public class IfDemo {
 			}
 			else
 			{
-				System.out.print("else map to nearest if ie f2");
+				System.out.print("else map to nearest if ie f2");// this will execute 
 			}
 		}
 		else

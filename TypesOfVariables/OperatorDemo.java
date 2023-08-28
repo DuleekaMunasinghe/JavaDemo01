@@ -1,4 +1,6 @@
-public class OpertatorDemo_increment_ops {
+package TypesOfVariables;
+
+public class OperatorDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,21 +11,10 @@ public class OpertatorDemo_increment_ops {
 		 It is used for contamination of strings
 		 */
 		
-		increment_ops();
-		
-				
-	}
-	
-	public static void contatination() {
-		
-		
 		System.out.println(10+20);
 		System.out.println(10+"20");
 		System.out.println("10"+"20");
 		System.out.println("10"+20);
-		
-	}
-	public static void increment_ops() {
 		
 		int a=5;
 		//pre increment
@@ -33,11 +24,7 @@ public class OpertatorDemo_increment_ops {
 		System.out.println(b++);
 		int c=b;
 		System.out.println(c);
-	/*
-		System.out.println(10+20);
-		System.out.println(10+"20");
-		System.out.println("10"+"20");
-		System.out.println("10"+20);
-		*/
 	}
+	
+	
 	}

@@ -7,7 +7,7 @@ public class WhileDemo {
 		while (num>0) // evaluate (condition)==true
 		{
 			//if condition is true, statement inside while loop is executed
-			System.out.println("Welcome to JAva programming :"+ num);
+			System.out.println("Welcome to Java programming :"+ num);
 			num--;
 			
 		}

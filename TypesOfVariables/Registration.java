@@ -1,3 +1,4 @@
+package TypesOfVariables;
 
 public class Registration {
 

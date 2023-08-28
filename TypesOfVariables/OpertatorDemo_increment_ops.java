@@ -1,4 +1,5 @@
-public class OpertatorDemo_relational_ops {
+package TypesOfVariables;
+public class OpertatorDemo_increment_ops {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,8 +10,7 @@ public class OpertatorDemo_relational_ops {
 		 It is used for contamination of strings
 		 */
 		
-		//increment_ops();
-		relational_ops();  // calling relational method
+		increment_ops();
 		
 				
 	}
@@ -34,18 +34,11 @@ public class OpertatorDemo_relational_ops {
 		System.out.println(b++);
 		int c=b;
 		System.out.println(c);
-	
+	/*
+		System.out.println(10+20);
+		System.out.println(10+"20");
+		System.out.println("10"+"20");
+		System.out.println("10"+20);
+		*/
 	}
-	
-	public static void relational_ops() {
-		
-		int a = 10;
-		int b = 15;
-		// < > <= >=
-		System.out.println(a<b);
-		System.out.println(a>b);
-		System.out.println(a<=b);
-		System.out.println(a>=b);
-	}
-	
 	}

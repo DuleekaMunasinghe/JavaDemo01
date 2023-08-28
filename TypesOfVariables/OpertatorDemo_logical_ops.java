@@ -1,3 +1,4 @@
+package TypesOfVariables;
 public class OpertatorDemo_logical_ops {
 
 	public static void main(String[] args) {

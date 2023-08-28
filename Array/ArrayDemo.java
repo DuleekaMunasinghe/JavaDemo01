@@ -1,3 +1,4 @@
+package Array;
 
 public class ArrayDemo {
 
@@ -7,7 +8,7 @@ public class ArrayDemo {
 		//its size should be defined
 		// when an array is created we cannot change size of array
 		
-		/* Moethod#1
+		/* Method#1
 		int month_days[]; // type name_array --declaring an array
 		month_days = new int[5]; // name_arr = new type [size] -- allocating memory to array
 		
@@ -18,8 +19,8 @@ public class ArrayDemo {
 		month_days[4]=50;
 		
 		for(int i=0; i<=4; i++)
-		System.out.println(month_days[i]);*/
-		/*System.out.println(month_days[1]);
+		System.out.println(month_days[i]);
+		System.out.println(month_days[1]);
 		System.out.println(month_days[2]);
 		System.out.println(month_days[3]);
 		System.out.println(month_days[4]);*/
